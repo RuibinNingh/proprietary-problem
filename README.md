@@ -9,4 +9,5 @@
 | 2025年4月6日00:43:14  | 【CSP-J模拟赛】（五） | [【CSP-J模拟赛】（五） - 比赛 - 在线测评系统](https://roc.ruibin-ningh.top/contest/1/) |
 | 2025年4月9日20:30:14  | 【CSP-J模拟赛六】     | [【CSP-J模拟赛六】 - 比赛 - 在线测评系统](https://roc.ruibin-ningh.top/contest/2/) |
 | 2025年4月20日11:38:03 | 【CSP-J模拟赛七】     | [【CSP-J模拟赛七】 - 比赛 - 在线测评系统](https://roc.ruibin-ningh.top/contest/3/) |
+| 2025年4月20日14:29:52 | 【CSP-J模拟赛八】     | [【CSP-J模拟赛八】 - 比赛 - 在线测评系统](https://roc.ruibin-ningh.top/contest/4/) |
 
