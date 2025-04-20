@@ -1,0 +1,74 @@
+E. 【CSP-J模拟赛七】--C逻辑运算 - 【CSP-J模拟赛七】 - 比赛 - 在线测评系统
+在线测评系统
+首页
+题库
+比赛
+课程
+评测
+用户
+讨论
+返回比赛
+SDLYA10336
+刘常瑞
+修改资料
+注销
+E. 【CSP-J模拟赛七】--C逻辑运算
+内存限制：256 MiB
+时间限制：1000 ms
+标准输入输出
+题目类型：传统
+评测方式：文本比较
+提交
+提交记录
+返回比赛
+题目描述
+小明迷上了逻辑值运算。但小明算的头都晕了也没算出个所以然。他只好找到你，让你帮他解决这个问题。
+输入格式
+一个字符串(串长小于255)表达逻辑式子，内只包含true,false,or,and,not和空格，(不包含括号和xor)，优先级同(not->and->or)，同级左边先算，如果逻辑式有误则输出 error。
+输出格式
+运算结果：true 或者 false ,如果无法得到结果的输出error
+样例
+输入
+true or false and false
+输出
+true
+数据范围与提示
+无
+C++
+GCC 10.2.0
+C++ 11
+GCC 10.2.0
+C++ 17
+GCC 10.2.0
+C++ (NOI)
+GCC 4.8.4 (NOILinux 1.4.1)
+C++ 11 (NOI)
+GCC 4.8.4 (NOILinux 1.4.1)
+C++ 11 (Clang)
+Clang 12.0.1
+C++ 17 (Clang)
+Clang 12.0.1
+C
+Clang 12.0.1
+C (NOI)
+GCC 4.8.4 (NOILinux 1.4.1)
+C#
+Mono 6.12.0.122
+Java
+OpenJDK 11.0.11
+Pascal
+Free Pascal 3.0.4
+Python 2
+PyPy 7.3.4 (Python 2.7.18)
+Python 3
+PyPy 7.3.4 (Python 3.7.10)
+Node.js
+16.1.0
+Ruby
+2.7.0
+Haskell
+GHC 8.10.4
+编辑器加载中 …
+或者，上传代码文件
+提交
+© 2025 在线测评系统
